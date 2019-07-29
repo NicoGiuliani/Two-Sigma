@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-Sigma", "Two-Sigma\Two-Sigma.csproj", "{8906BE6D-05B2-4653-98E5-C8E4D2B1D4F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-Sigma", "Two-Sigma.csproj", "{8906BE6D-05B2-4653-98E5-C8E4D2B1D4F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {140400C1-17D5-4DC6-B4CA-AB469179412D}
+		SolutionGuid = {18D60F32-B7EB-4863-8609-8FC6EAAA21F6}
 	EndGlobalSection
 EndGlobal
